@@ -1,4 +1,4 @@
-package com.example.demo.student;
+package com.example.demo.model;
 
 import javax.persistence.*;
 import java.time.LocalDate;
@@ -9,7 +9,7 @@ public class Student {
 
     @Id
     @SequenceGenerator(
-            name = "Student_sequence",
+            name = "student_sequence",
             sequenceName = "student_sequence",
             allocationSize = 1
     )
