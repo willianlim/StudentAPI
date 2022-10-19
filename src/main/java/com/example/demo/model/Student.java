@@ -23,7 +23,7 @@ public class Student {
     private LocalDate dob;
     private Integer age;
 
-    public Student(Long id) {
+    public Student() {
     }
 
     public Student(Long id,
