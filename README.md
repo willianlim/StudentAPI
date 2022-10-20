@@ -3,7 +3,7 @@
 📚 Student API.
 
 <p align="center">
-    <img src="https://github.com/willianlim/StudentAPI/blob/master/img/certificate-of-completion-for-getting-started-with-spring-boot%20(1).pdf" width="490">
+    <img src="https://github.com/willianlim/StudentAPI/blob/master/img/stud.drawio.png" width="490">
 </p>
 
 ## 📥 Installation
