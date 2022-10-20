@@ -9,7 +9,7 @@
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/willianlim/get_next_line
+git clone https://github.com/willianlim/StudentAPI.git
 ```
 
 ## ✍ Usage
@@ -24,4 +24,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## 📝 License
-- Licença de software [`LICENSE`](https://github.com/willianlim/get_next_line/blob/main/LICENSE)
+- Licença de software [`LICENSE`](https://github.com/willianlim/StudentAPI/blob/master/LICENSE)
