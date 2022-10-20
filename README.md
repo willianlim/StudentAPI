@@ -1,4 +1,4 @@
-# [`StudentAPI`](https://github.com/willianlim/StudentAPI/blob/master/img/certificate-of-completion-for-getting-started-with-spring-boot%20(1).pdf)
+# `StudentAPI`
 
 📚 Student API.
 
@@ -19,10 +19,18 @@ git clone https://github.com/willianlim/StudentAPI.git
 ```json
 GET:
 http://localhost:8080/api/v1/student/
+[
+    {
+        "id": 1,
+        "name": "Alex",
+        "email": "alex@gmail.com",
+        "dob": "2004-01-05",
+        "age": 18
+    }
+]
 
 POST:
 http://localhost:8080/api/v1/student/
-
 {
     "name": "Maria",
     "email": "mariam.jamal@gmail.com",
