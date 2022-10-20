@@ -2,6 +2,10 @@
 
 📚 Student API.
 
+<p align="center">
+    <img src="https://github.com/willianlim/java_how_to_program/blob/master/img/java8.jpg" width="490">
+</p>
+
 ## 📥 Installation
 
 ```bash
