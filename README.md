@@ -14,8 +14,31 @@ git clone https://github.com/willianlim/StudentAPI.git
 
 ## ✍ Usage
 
-```bash
+```json
+GET:
+http://localhost:8080/api/v1/student/
 
+POST:
+http://localhost:8080/api/v1/student/
+
+{
+    "name": "Maria",
+    "email": "mariam.jamal@gmail.com",
+    "dob": "2000-01-05",
+    "age": 22
+}
+
+PUT:
+http://localhost:8080/api/v1/student/?name=mariaaaaa
+{
+    "name": "mariaaaaa",
+    "email": "mariam.jamal@gmail.com",
+    "dob": "2000-01-05",
+    "age": 22
+}
+
+DELETE:
+http://localhost:8080/api/v1/student/1
 ```
 
 ## Contributing
