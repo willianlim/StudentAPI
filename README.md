@@ -3,7 +3,7 @@
 📚 Student API.
 
 <p align="center">
-    <img src="https://github.com/willianlim/java_how_to_program/blob/master/img/java8.jpg" width="490">
+    <img src="https://github.com/willianlim/StudentAPI/blob/master/img/certificate-of-completion-for-getting-started-with-spring-boot%20(1).pdf" width="490">
 </p>
 
 ## 📥 Installation
